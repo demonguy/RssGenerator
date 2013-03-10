@@ -1,0 +1,5 @@
+cron:
+- description: Frequently Hub
+  url: /frequenthub
+  schedule: every 5 minutes
+  timezone: Asia/Shanghai
